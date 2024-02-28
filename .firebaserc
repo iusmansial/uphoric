@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "auth-b3418",
+    "extra": "auth-b3418"
+  },
+  "targets": {},
+  "etags": {}
+}
